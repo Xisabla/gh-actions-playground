@@ -1,3 +1,6 @@
+/**
+ * Sample Application Class
+ */
 export default class Application {
  
     private users: string[]

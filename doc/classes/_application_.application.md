@@ -2,6 +2,8 @@
 
 # Class: Application
 
+Sample Application Class
+
 ## Hierarchy
 
 * **Application**
@@ -27,7 +29,7 @@
 
 \+ **new Application**(`users`: string[]): *[Application](_application_.application.md)*
 
-*Defined in [Application.ts:3](https://github.com/Xisabla/gh-actions-playground/blob/a44794c/src/Application.ts#L3)*
+*Defined in [Application.ts:6](https://github.com/Xisabla/gh-actions-playground/blob/8c92ead/src/Application.ts#L6)*
 
 **Parameters:**
 
@@ -43,7 +45,7 @@ Name | Type | Default |
 
 • **users**: *string[]*
 
-*Defined in [Application.ts:3](https://github.com/Xisabla/gh-actions-playground/blob/a44794c/src/Application.ts#L3)*
+*Defined in [Application.ts:6](https://github.com/Xisabla/gh-actions-playground/blob/8c92ead/src/Application.ts#L6)*
 
 ## Methods
 
@@ -51,7 +53,7 @@ Name | Type | Default |
 
 ▸ **addUser**(`user`: string): *void*
 
-*Defined in [Application.ts:9](https://github.com/Xisabla/gh-actions-playground/blob/a44794c/src/Application.ts#L9)*
+*Defined in [Application.ts:12](https://github.com/Xisabla/gh-actions-playground/blob/8c92ead/src/Application.ts#L12)*
 
 **Parameters:**
 
@@ -67,6 +69,6 @@ ___
 
 ▸ **greet**(): *void*
 
-*Defined in [Application.ts:13](https://github.com/Xisabla/gh-actions-playground/blob/a44794c/src/Application.ts#L13)*
+*Defined in [Application.ts:16](https://github.com/Xisabla/gh-actions-playground/blob/8c92ead/src/Application.ts#L16)*
 
 **Returns:** *void*
