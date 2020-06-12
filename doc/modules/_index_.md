@@ -14,4 +14,4 @@
 
 • **app**: *[Application](../classes/_application_.application.md)‹›* = new Application()
 
-*Defined in [index.ts:3](https://github.com/Xisabla/gh-actions-playground/blob/8c92ead/src/index.ts#L3)*
+*Defined in [index.ts:3](https://github.com/Xisabla/gh-actions-playground/blob/d330cf8/src/index.ts#L3)*
