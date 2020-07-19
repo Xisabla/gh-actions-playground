@@ -29,7 +29,7 @@ Sample Application Class
 
 \+ **new Application**(`users`: string[]): *[Application](_application_.application.md)*
 
-*Defined in [Application.ts:6](https://github.com/Xisabla/gh-actions-playground/blob/d330cf8/src/Application.ts#L6)*
+*Defined in [Application.ts:6](https://github.com/Xisabla/gh-actions-playground/blob/6ca3f75/src/Application.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type | Default |
 
 • **users**: *string[]*
 
-*Defined in [Application.ts:6](https://github.com/Xisabla/gh-actions-playground/blob/d330cf8/src/Application.ts#L6)*
+*Defined in [Application.ts:6](https://github.com/Xisabla/gh-actions-playground/blob/6ca3f75/src/Application.ts#L6)*
 
 ## Methods
 
@@ -53,7 +53,7 @@ Name | Type | Default |
 
 ▸ **addUser**(`user`: string): *void*
 
-*Defined in [Application.ts:12](https://github.com/Xisabla/gh-actions-playground/blob/d330cf8/src/Application.ts#L12)*
+*Defined in [Application.ts:12](https://github.com/Xisabla/gh-actions-playground/blob/6ca3f75/src/Application.ts#L12)*
 
 **Parameters:**
 
@@ -69,6 +69,6 @@ ___
 
 ▸ **greet**(): *void*
 
-*Defined in [Application.ts:16](https://github.com/Xisabla/gh-actions-playground/blob/d330cf8/src/Application.ts#L16)*
+*Defined in [Application.ts:16](https://github.com/Xisabla/gh-actions-playground/blob/6ca3f75/src/Application.ts#L16)*
 
 **Returns:** *void*
